@@ -11,7 +11,7 @@ This example shows how to implement CRUD operations (create, read, update, and d
 The example includes multiple solutions that demonstrate:
 
 * How to bind the Data Grid to [Entity Framework](https://docs.microsoft.com/en-us/ef/ef6/), [EF Core](https://docs.microsoft.com/en-us/ef/), and [XPO](https://docs.devexpress.com/XPO/1998/express-persistent-objects).
-* Different binding mechanisms: virtual sources, server mode sources, and local data.
+* Different binding mechanisms: [virtual sources](https://docs.devexpress.com/WPF/10803/controls-and-libraries/data-grid/bind-to-data/bind-to-any-data-source-with-virtual-sources), [server mode sources](https://docs.devexpress.com/WPF/6279/controls-and-libraries/data-grid/bind-to-data/server-mode-and-instant-feedback), and [local data](https://docs.devexpress.com/WPF/6090/controls-and-libraries/data-grid/bind-to-data/bind-to-local-data).
 * MVVM and code-behind patterns.
 
 ## Files to Look At
