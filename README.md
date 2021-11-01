@@ -18,45 +18,45 @@ The example includes multiple solutions that demonstrate:
 
 ### Local Data
 
-[MVVVM - EFCore](CS/ViewModel/EFCore/LocalData)
-[MVVVM - EntityFramework](CS/ViewModel/EntityFramework/LocalData)
-[MVVVM - XPO](CS/ViewModel/XPO/LocalData)
-[Code-behind - EFCore](CS/CodeBehind/EFCore/LocalData)
-[Code-behind - EntityFramework](CS/CodeBehind/EntityFramework/LocalData)
-[Code-behind - XPO](CS/CodeBehind/XPO/LocalData)
+* [MVVVM - EFCore](CS/ViewModel/EFCore/LocalData)
+* [MVVVM - EntityFramework](CS/ViewModel/EntityFramework/LocalData)
+* [MVVVM - XPO](CS/ViewModel/XPO/LocalData)
+* [Code-behind - EFCore](CS/CodeBehind/EFCore/LocalData)
+* [Code-behind - EntityFramework](CS/CodeBehind/EntityFramework/LocalData)
+* [Code-behind - XPO](CS/CodeBehind/XPO/LocalData)
 
 ### InfiniteAsyncSource
 
-[MVVVM - EFCore](CS/ViewModel/EFCore/InfiniteAsyncSource)
-[MVVVM - EntityFramework](CS/ViewModel/EntityFramework/InfiniteAsyncSource)
-[MVVVM - XPO](CS/ViewModel/XPO/InfiniteAsyncSource)
-[Code-behind - EFCore](CS/CodeBehind/EFCore/InfiniteAsyncSource)
-[Code-behind - EntityFramework](CS/CodeBehind/EntityFramework/InfiniteAsyncSource)
-[Code-behind - XPO](CS/CodeBehind/XPO/InfiniteAsyncSource)
+* [MVVVM - EFCore](CS/ViewModel/EFCore/InfiniteAsyncSource)
+* [MVVVM - EntityFramework](CS/ViewModel/EntityFramework/InfiniteAsyncSource)
+* [MVVVM - XPO](CS/ViewModel/XPO/InfiniteAsyncSource)
+* [Code-behind - EFCore](CS/CodeBehind/EFCore/InfiniteAsyncSource)
+* [Code-behind - EntityFramework](CS/CodeBehind/EntityFramework/InfiniteAsyncSource)
+* [Code-behind - XPO](CS/CodeBehind/XPO/InfiniteAsyncSource)
 
 ### PagedAsyncSource
 
-[MVVVM - EFCore](CS/ViewModel/EFCore/PagedAsyncSource)
-[MVVVM - EntityFramework](CS/ViewModel/EntityFramework/PagedAsyncSource)
-[MVVVM - XPO](CS/ViewModel/XPO/PagedAsyncSource)
-[Code-behind - EFCore](CS/CodeBehind/EFCore/PagedAsyncSource)
-[Code-behind - EntityFramework](CS/CodeBehind/EntityFramework/PagedAsyncSource)
-[Code-behind - XPO](CS/CodeBehind/XPO/PagedAsyncSource)
+* [MVVVM - EFCore](CS/ViewModel/EFCore/PagedAsyncSource)
+* [MVVVM - EntityFramework](CS/ViewModel/EntityFramework/PagedAsyncSource)
+* [MVVVM - XPO](CS/ViewModel/XPO/PagedAsyncSource)
+* [Code-behind - EFCore](CS/CodeBehind/EFCore/PagedAsyncSource)
+* [Code-behind - EntityFramework](CS/CodeBehind/EntityFramework/PagedAsyncSource)
+* [Code-behind - XPO](CS/CodeBehind/XPO/PagedAsyncSource)
 
 ### Instant Feedback
 
-[MVVVM - EFCore](CS/ViewModel/EFCore/InstantFeedbackMode)
-[MVVVM - EntityFramework](CS/ViewModel/EntityFramework/InstantFeedbackMode)
-[MVVVM - XPO](CS/ViewModel/XPO/InstantFeedbackMode)
-[Code-behind - EFCore](CS/CodeBehind/EFCore/InstantFeedbackMode)
-[Code-behind - EntityFramework](CS/CodeBehind/EntityFramework/InstantFeedbackMode)
-[Code-behind - XPO](CS/CodeBehind/XPO/InstantFeedbackMode)
+* [MVVVM - EFCore](CS/ViewModel/EFCore/InstantFeedbackMode)
+* [MVVVM - EntityFramework](CS/ViewModel/EntityFramework/InstantFeedbackMode)
+* [MVVVM - XPO](CS/ViewModel/XPO/InstantFeedbackMode)
+* [Code-behind - EFCore](CS/CodeBehind/EFCore/InstantFeedbackMode)
+* [Code-behind - EntityFramework](CS/CodeBehind/EntityFramework/InstantFeedbackMode)
+* [Code-behind - XPO](CS/CodeBehind/XPO/InstantFeedbackMode)
 
 ### Server Mode
 
-[MVVVM - EFCore](CS/ViewModel/EFCore/ServerMode)
-[MVVVM - EntityFramework](CS/ViewModel/EntityFramework/ServerMode)
-[MVVVM - XPO](CS/ViewModel/XPO/ServerMode)
-[Code-behind - EFCore](CS/CodeBehind/EFCore/ServerMode)
-[Code-behind - EntityFramework](CS/CodeBehind/EntityFramework/ServerMode)
-[Code-behind - XPO](CS/CodeBehind/XPO/ServerMode)
+* [MVVVM - EFCore](CS/ViewModel/EFCore/ServerMode)
+* [MVVVM - EntityFramework](CS/ViewModel/EntityFramework/ServerMode)
+* [MVVVM - XPO](CS/ViewModel/XPO/ServerMode)
+* [Code-behind - EFCore](CS/CodeBehind/EFCore/ServerMode)
+* [Code-behind - EntityFramework](CS/CodeBehind/EntityFramework/ServerMode)
+* [Code-behind - XPO](CS/CodeBehind/XPO/ServerMode)
